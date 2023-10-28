@@ -1,1 +1,1 @@
-![Diagram Title](testing.drawio)
+![Diagram Title](test.svg)
