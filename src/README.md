@@ -2,4 +2,4 @@
 
 ![Diagram](https://raw.githubusercontent.com/pixelbits-mk/NgrxDemo/main/src/test2.svg)
 
-![test](https://raw.githubusercontent.com/pixelbits-mk/NgrxDemo/main/src/test2.svg)
+![test](https://raw.githubusercontent.com/pixelbits-mk/NgrxDemo/main/src/test2.svg?test)
