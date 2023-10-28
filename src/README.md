@@ -1,4 +1,4 @@
 
 <a href="https://app.diagrams.net/?mode=github#Hpixelbits-mk%2FNgrxDemo%2Fmain%2Fsrc%2Ftest2.svg" target="_blank">
-  <img src="https://raw.githubusercontent.com/pixelbits-mk/NgrxDemo/main/src/test2.svg?version=234234234" alt="test">
+  <img src="https://raw.githubusercontent.com/pixelbits-mk/NgrxDemo/main/src/test2.svg?version=asdfsdfdf" alt="test">
 </a>
